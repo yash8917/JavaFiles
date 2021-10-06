@@ -12,7 +12,7 @@ abstract class Bike{
 //Inheritance concept
 class Honda extends Bike{
     @Override
-    void run() {System.out.println("Bike is running..");}
+    void run(){System.out.println("Bike is running..");}
 }
 //This is the main Class
 public class TestAbstractBike {
