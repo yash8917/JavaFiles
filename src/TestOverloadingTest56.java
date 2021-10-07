@@ -28,10 +28,12 @@ class OverDemo{
         System.out.println(" welcome");
     }
 }
+
 class labOverloadindTest56 {
     public static void main(String[] args) {
         // create a anonymous obj
         //new OverDemo().m1(null);
         OverDemo obj5=null;
     }
+
 }
