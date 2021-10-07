@@ -9,9 +9,9 @@
 //}
 
 interface i1{
+
 }
 interface i2 extends i1{
-
 }
 interface i3 extends i1{
 
