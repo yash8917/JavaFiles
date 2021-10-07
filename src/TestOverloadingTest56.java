@@ -7,6 +7,7 @@
 //class i3 extends i2{
 //
 //}
+
 interface i1{
 }
 interface i2 extends i1{
@@ -31,6 +32,7 @@ class labOverloadindTest56 {
     public static void main(String[] args) {
         // create a anonymous obj
         //new OverDemo().m1(null);
+
         OverDemo obj5=null;
     }
 
