@@ -15,6 +15,7 @@ class Circle implements Drawable{
         System.out.println("Circle is Draw.");
     }
 }
+
 public class DrawableInterface {
     public static void main(String[] args) {
         Drawable obj=new Circle();
