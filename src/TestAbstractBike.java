@@ -7,7 +7,7 @@ abstract class Bike{
     abstract void run();
 
 //    Create a normal method
-    void changegear(){System.out.println("gear is changed");}
+    void changegear() {System.out.println("gear is changed");}
 }
 //Inheritance concept
 class Honda extends Bike{
