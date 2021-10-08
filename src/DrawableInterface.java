@@ -10,13 +10,14 @@ class Ractangle implements Drawable{
         System.out.println("Ractangle is Draw.");
     }
 }
+//Again inherit the interface
 class Circle implements Drawable{
     @Override
     public void draw() {
         System.out.println("Circle is Draw.");
     }
 }
-
+// This is our Public class
 public class DrawableInterface {
     public static void main(String[] args) {
         Drawable obj=new Circle();
