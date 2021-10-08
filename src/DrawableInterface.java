@@ -1,8 +1,9 @@
 import java.awt.dnd.DropTarget;
-
+// Create The Interface
 interface Drawable{
     void draw();
 }
+// We can Inherit the Interface
 class Ractangle implements Drawable{
     @Override
     public void draw() {
