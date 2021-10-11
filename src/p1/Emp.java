@@ -1,5 +1,4 @@
 package p1;
-
 public class Emp extends Person{
     int id;
     int sal;
