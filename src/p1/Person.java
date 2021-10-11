@@ -1,5 +1,6 @@
 package p1;
 //if class have a abstract method then we mandatory to create class is an abstract..
+
 abstract class Person {
     public int age ;
     public String name;
