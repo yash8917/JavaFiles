@@ -4,6 +4,7 @@ package p1;
 abstract class Person {
     public int age ;
     public String name;
+
     //to reduce the reedundancy we make a constructer
     public Person(int age, String name) {
         this.age = age;
