@@ -5,7 +5,6 @@ abstract class Bike{
 
 //    Create a Abstract method
     abstract void run();
-
 //    Create a normal method
     void changegear() {System.out.println("gear is changed");}
 }
