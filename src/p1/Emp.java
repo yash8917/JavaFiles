@@ -10,7 +10,6 @@ public class Emp extends Person{
 
         this.id=id;
         this.sal=sal;
-
 //        this.age=age;
 //        this.name=name;
     }
