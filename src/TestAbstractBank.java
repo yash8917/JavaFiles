@@ -5,9 +5,11 @@ abstract class Bank{
 class SBI extends Bank{
     int getRateOfIntrest(){return 7;}
 }
+
 class PNB extends Bank{
     int getRateOfIntrest(){return 8;}
 }
+
 public class TestAbstractBank {
     public static void main(String[] args){
         Bank obj=new SBI();
