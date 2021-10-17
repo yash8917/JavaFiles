@@ -28,5 +28,4 @@ public class TestNestedClass {
         Outer obj2=new Outer();
         System.out.println(obj2.num1);
     }//end of the main method.
-
 }//end of the main class
