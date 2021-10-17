@@ -3,7 +3,6 @@ class Outer{
     Outer(){
         num1=10;
     }
-
     //Create the Static inner class
    static class Inner{
         int num2;
