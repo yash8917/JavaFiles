@@ -8,7 +8,6 @@ class Stu{
     public Stu(int rollno,String name){
         this();
         System.out.println("THis is parametrize constructer");
-
     }
 }
 public class ConstructerChaining {
