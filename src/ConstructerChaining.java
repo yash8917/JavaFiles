@@ -10,6 +10,7 @@ class Stu{
     }
 
 }
+
 public class ConstructerChaining {
     public static void main(String[] args) {Stu obj=new Stu(69,"Yash Gupta.");
         //Stu obj1=new Stu();
