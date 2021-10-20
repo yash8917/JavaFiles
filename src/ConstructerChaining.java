@@ -8,6 +8,7 @@ class Stu{
         this();
         System.out.println("THis is parametrize constructer");
     }
+
 }
 public class ConstructerChaining {
     public static void main(String[] args) {Stu obj=new Stu(69,"Yash Gupta.");
