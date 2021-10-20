@@ -4,6 +4,7 @@ class Stu{
     public Stu() {
         System.out.println("This is non-parameterize constructer");
     }
+
     public Stu(int rollno,String name){
         this();
         System.out.println("THis is parametrize constructer");
