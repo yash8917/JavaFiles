@@ -1,7 +1,6 @@
 class Stu{
     int rollno;
     String name;
-
     public Stu() {
         System.out.println("This is non-parameterize constructer");
     }
