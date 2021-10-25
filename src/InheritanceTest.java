@@ -23,6 +23,7 @@ class Programmer extends Employee{
         System.out.println("Bonous is:"+getbonous());
     }
 }
+
 public class InheritanceTest {
     public static void main(String[] args) {
         Programmer obj=new Programmer();
