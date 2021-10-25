@@ -1,26 +1,17 @@
 
 class Employee{
     int salary;
-
-    public void setSalary(int salary) {
-        this.salary = salary;
-    }
-    public int getSalary() {
-        return salary;
-    }
+    Employee(){
+    salary=20000;}
 }
 class Programmer extends Employee{
     int bonous;
-
-    public void setbonous(){
-        this.bonous=bonous;
-    }
-    public int  getbonous(){
-        return bonous;
+    Programmer(){
+        bonous=8000;
     }
     public void display(){
-        System.out.println("Salary is :"+getSalary());
-        System.out.println("Bonous is:"+getbonous());
+        System.out.println("Salary is :"+salary);
+        System.out.println("Bonous is:"+bonous);
     }
 }
 
