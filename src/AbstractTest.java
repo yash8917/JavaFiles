@@ -13,6 +13,7 @@ class Vivo extends Cellphone{
         System.out.println("Vivo has Quad sim.");
     }
 }
+
 public class AbstractTest {
     public static void main(String[] args) {
         Cellphone obj=new Redmi();
