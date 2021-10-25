@@ -12,7 +12,6 @@ class Vivo extends Cellphone{
     void sim() {
         System.out.println("Vivo has Quad sim.");
     }
-
 }
 public class AbstractTest {
     public static void main(String[] args) {
