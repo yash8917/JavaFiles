@@ -10,6 +10,7 @@ class Ractangle implements Drawable{
         System.out.println("Ractangle is Draw.");
     }
 }
+
 //Again inherit the interface
 class Circle implements Drawable{
     @Override
