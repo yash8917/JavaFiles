@@ -8,7 +8,6 @@ public class PatientMain{
         this.h = h;
         this.w = w;
     }
-
     public double computeBmi(){
         return w/(h*h);
     }
