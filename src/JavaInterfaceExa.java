@@ -10,6 +10,5 @@ public class JavaInterfaceExa implements printable {
         JavaInterfaceExa obj=new JavaInterfaceExa();
         obj.print();
     }
-
 }
 
