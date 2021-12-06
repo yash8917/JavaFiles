@@ -6,7 +6,8 @@ public class WrapperAssignment_2 {
         System.out.println("Give the Number:\n");
 
 //        Using Command line argument and store the wrapper Class
-        Integer a= sc.nextInt();
+        Integer a= sc.nextInt(){
+            
 //        Print the Values
         System.out.println("Binary Equivalant: "+Integer.toBinaryString(a));
         System.out.println("\nHexa Equivalant: "+Integer.toHexString(a));
