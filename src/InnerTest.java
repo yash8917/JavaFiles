@@ -14,6 +14,7 @@ class Outer2{
 
 public class InnerTest {
     public static void main(String[] args) {
+        
         Outer2 obj=new Outer2();
         obj.display();
         Outer2.Inner obj2= obj.new Inner();
