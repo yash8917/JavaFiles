@@ -1,6 +1,7 @@
 interface  printable{
     void print();
 }
+
 public class JavaInterfaceExa implements printable {
     public void print() {
         System.out.println("HELLO");
