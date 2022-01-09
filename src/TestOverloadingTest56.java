@@ -1,12 +1,3 @@
-//class i1{
-//
-//}
-//class i2 extends i1{
-//
-//}
-//class i3 extends i2{
-//
-//}
 
 interface i1{
 
