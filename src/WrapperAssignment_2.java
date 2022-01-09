@@ -12,6 +12,5 @@ public class WrapperAssignment_2 {
         System.out.println("Binary Equivalant: "+Integer.toBinaryString(a));
         System.out.println("\nHexa Equivalant: "+Integer.toHexString(a));
         System.out.println("\nOctal Equivalant: "+Integer.toOctalString(a));
-
     }
 }
