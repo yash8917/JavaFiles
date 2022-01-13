@@ -1,6 +1,7 @@
 abstract class Cellphone{
 abstract void sim();
 }
+
 class Redmi extends Cellphone{
     @Override
     void sim() {
