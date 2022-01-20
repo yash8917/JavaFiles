@@ -21,6 +21,6 @@ public class AbstractTest {
         obj.sim();
         Cellphone obj2=new Vivo();
         obj2.sim();
-    }
+    }//end of the main method
 }//end of the class
 
