@@ -1,4 +1,3 @@
-
 interface i1{
 }
 interface i2 extends i1{
