@@ -21,4 +21,3 @@ public class AbstractTest {
         obj2.sim();
     }//end of the main method
 }//end of the class
-
