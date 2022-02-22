@@ -2,7 +2,7 @@ package p1;
 public class Emp extends Person{
     int id;
     int sal;
-    
+  
     public Emp(int id,int sal,int age,String name) {
         super(age, name);
         // what the perpose of super-->to perform constructer chaining between classes
