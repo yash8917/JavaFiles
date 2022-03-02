@@ -27,3 +27,4 @@ public class DrawableInterface {
         obj1.draw();
     }
 }
+
