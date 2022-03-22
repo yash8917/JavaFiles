@@ -4,6 +4,7 @@ interface i2 extends i1{
 }
 interface i3 extends i1{
 }
+
 class OverDemo{
     
     public void m1(i1 obj1){
